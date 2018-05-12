@@ -1,0 +1,48 @@
+_repo: The-Popular-Story-of-Blue-BeardEmbellished-with-neat-Engravings_45381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45381-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: Adapted from Charles Perrault.
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Curiosity -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Husband and wife -- Juvenile fiction'
+- !lcsh 'Cruelty -- Juvenile fiction'
+- !lcsh 'Murder -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Castles -- Juvenile fiction'
+title: 'The Popular Story of Blue Beard
+
+  Embellished with neat Engravings'
+url: http://www.gutenberg.org/ebooks/45381
